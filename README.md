@@ -3,4 +3,4 @@ I post my notes/materials here for my duration of college. I intend to use this 
 
 Materials, textbooks, syllabuses, etc. will be freely posted here. Files will be organized to the order they come in my schedule.
 
-Currently, I still need to plan my degree path and what credits to take, so much of the stuff here are just placeholders for what is to come.
+**Upcming:** I will register for my classes for the 2022 fall semester on 4/22/22.
