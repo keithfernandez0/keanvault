@@ -3,4 +3,4 @@ I post my notes/materials here for my duration of college. I intend to use this 
 
 Materials, textbooks, syllabuses, etc. will be freely posted here. Files will be organized to the order they come in my schedule.
 
-**Upcming:** I will register for my classes for the 2022 fall semester on 4/22/22.
+**Upcoming:** I will register for my classes for the 2022 fall semester on 4/22/22.
