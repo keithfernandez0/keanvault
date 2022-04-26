@@ -1,4 +1,4 @@
-# TECH 1010
+# GE 1000
 ## Overview of Professor
 
 ### Attendance

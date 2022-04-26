@@ -1,4 +1,4 @@
-# TECH 1010
+# ID 1400
 ## Overview of Professor
 
 ### Attendance

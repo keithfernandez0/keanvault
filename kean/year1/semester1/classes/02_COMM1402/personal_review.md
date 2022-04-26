@@ -1,4 +1,4 @@
-# TECH 1010
+# COMM 1402
 ## Overview of Professor
 
 ### Attendance

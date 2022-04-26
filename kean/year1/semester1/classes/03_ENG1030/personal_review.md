@@ -1,4 +1,4 @@
-# TECH 1010
+# ENG 1030
 ## Overview of Professor
 
 ### Attendance

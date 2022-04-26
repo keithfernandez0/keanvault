@@ -1,6 +1,6 @@
 # TECH 1010
-## Overview of Professor
-
+## Overview of Professor James Novotny
+---
 ### Attendance
 
 ### Effectiveness

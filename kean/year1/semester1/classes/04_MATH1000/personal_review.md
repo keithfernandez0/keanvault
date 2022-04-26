@@ -1,4 +1,4 @@
-# TECH 1010
+# MATH 1000
 ## Overview of Professor
 
 ### Attendance
