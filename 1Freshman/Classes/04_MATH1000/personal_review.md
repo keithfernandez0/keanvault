@@ -1,9 +1,12 @@
-# Overview of Professor
+# TECH 1010
+## Overview of Professor
 
-## Effectiveness
+### Attendance
 
-## Difficulty
+### Effectiveness
 
-## Homework
+### Difficulty
 
-## Class pacing
+### Homework
+
+### Class pacing
