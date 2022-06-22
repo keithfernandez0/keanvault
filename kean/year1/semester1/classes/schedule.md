@@ -6,9 +6,9 @@ ___
 
 1. **Tuesday:**
 
-	- **9:30 AM - 10:45 AM:** TECH 1010, [Technology 118 Lecture]
-	- **11:00 AM - 12:15 PM:** COMM 1402, [Location TBD]
-	- **2:00 PM - 3:15 PM:** ENG 1030, [Location TBD]
+	- **9:30 AM - 10:45 AM:** TECH 1010, [Green Lane Academic Buidling, 207 Lecture]
+	- **11:00 AM - 12:15 PM:** COMM 1402, [CAS Building, 449 Lecture]
+	- **2:00 PM - 3:15 PM:** ENG 1030, [CAS Building, 351 Lecture]
 	- **4:30 PM - 5:45 PM:** MATH 1000, [Location TBD]
 
 
@@ -22,9 +22,9 @@ yesterday's / tomorrow's work.
 
 3. **Thursday:**
 
-	- **9:30 AM - 10:45 AM:** TECH 1010, [Technology 118 Lecture]
-	- **11:00 AM - 12:15 PM:** COMM 1402, [Location TBD]
-	- **2:00 PM - 3:15 PM:** ENG 1030, [Location TBD]
+	- **9:30 AM - 10:45 AM:** TECH 1010, [Green Lane Academic Buidling, 207 Lecture]
+	- **11:00 AM - 12:15 PM:** COMM 1402, [CAS Building, 449 Lecture]
+	- **2:00 PM - 3:15 PM:** ENG 1030, [CAS Building, 351 Lecture]
 	- **4:30 PM - 5:45 PM:** MATH 1000, [Location TBD]
 
 ___
@@ -56,7 +56,7 @@ ___
 
 - **MATH 1000:** [TBD]
 
-- **ID 1400:** [N/A]
+- **ID 1400:** [N/A - Unable to find information about professor]
 
 ___
 
