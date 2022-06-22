@@ -31,17 +31,14 @@ ___
 
 ## Rating My Professor Synopsis
 
-- **TECH 1010**: James Novotny
+- **TECH 1010**: Jean Chu
 	- Attendance is MANDATORY.
-	- Seems to be very disorganized when taking the more advanced courses he teaches
-	- Does not seem to follow syllabus.
-	- Textbook is needed for his class.
-	- On TECH 1010 there seems to be mixed reviews, people either love him or hate him.
-	- If you ask questions or look for insight, he seems willing to help you.
-	- Described as a nice person.
-	- Group projects can be scuffed.
-	- Not a class to slack off in, but his classes don't seem to be outrageously
-difficult. Just don't be lazy.
+	- Offers extra credit.
+	- Overall good feedback.
+	- Good networking connections for future research on condition that you're a good student
+	- More focused on the business side of software development, not a coding heavy class
+	- Pay attention in class and do the readings in advance, and you're gonna be fine. Exams will be easy if you don't slack.
+	- Accessible outside of class.
 
 
 - **COMM 1402:** [TBD]
@@ -59,7 +56,7 @@ difficult. Just don't be lazy.
 
 - **MATH 1000:** [TBD]
 
-- **ID 1400:** [TBD]
+- **ID 1400:** [N/A]
 
 ___
 
@@ -83,9 +80,12 @@ developing texts; strategies for critical writing, reading, and thinking; and me
 technological tools for composing. The course provides the foundation on which students will
 build their writing and rhetorical abilities throughout one's academic career and beyond.
 
+- **GE 1000:** Students learn about university programs and services and develop academic skills to function successfully in the university setting.
+
 - **MATH 1000:** Rational expressions, radical and exponential expressions. Quadratic, rational
 and radical equations and inequalities. Systems of equations. Properties of functions and their
 graphs. Polynomial functions and inverse functions. Binomial theorem.
+
 - **ID 1400:** Fundamental computing concepts, technology and skills used in modern society;
 problem abstraction and design principles; data and information representation; algorithm
 concepts; introduction to a programming language.
