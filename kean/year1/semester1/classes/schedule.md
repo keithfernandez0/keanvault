@@ -6,26 +6,26 @@ ___
 
 1. **Tuesday:**
 
-	- **9:30 AM - 10:45 AM:** TECH 1010, [Green Lane Academic Buidling, 207 Lecture]
+	- **9:30 AM - 10:45 AM:** TECH 1010, [GLAB, 207 Lecture]
 	- **11:00 AM - 12:15 PM:** COMM 1402, [CAS Building, 449 Lecture]
 	- **2:00 PM - 3:15 PM:** ENG 1030, [CAS Building, 351 Lecture]
-	- **4:30 PM - 5:45 PM:** MATH 1000, [Location TBD]
+	- **4:30 PM - 5:45 PM:** MATH 1000, [Bruce Hall, 208B Lecture]
 
 
 2. **Wednesday:**
 
-	- **9:30 AM - 10:45 AM:** GE 1000, [Location TBD]
+	- **9:30 AM - 10:45 AM:** GE 1000, [CAS Building, 248 Lecture]
 	- **5 HOUR FREE STUDY BLOCK:** Go to campus libraries / computer lab to finish
 yesterday's / tomorrow's work.
-	- **4:30 PM - 7:15 PM:** ID 1400, [Green Lane Academic Building 304]
+	- **4:30 PM - 7:15 PM:** ID 1400, [GLAB, 304]
 
 
 3. **Thursday:**
 
-	- **9:30 AM - 10:45 AM:** TECH 1010, [Green Lane Academic Buidling, 207 Lecture]
+	- **9:30 AM - 10:45 AM:** TECH 1010, [GLAB, 207 Lecture]
 	- **11:00 AM - 12:15 PM:** COMM 1402, [CAS Building, 449 Lecture]
 	- **2:00 PM - 3:15 PM:** ENG 1030, [CAS Building, 351 Lecture]
-	- **4:30 PM - 5:45 PM:** MATH 1000, [Location TBD]
+	- **4:30 PM - 5:45 PM:** MATH 1000, [Bruce Hall, 208B Lecture]
 
 ___
 
@@ -88,6 +88,6 @@ graphs. Polynomial functions and inverse functions. Binomial theorem.
 
 - **ID 1400:** Fundamental computing concepts, technology and skills used in modern society;
 problem abstraction and design principles; data and information representation; algorithm
-concepts; introduction to a programming language.
+concepts; introduction to a programming language. Laptop is required.
 
 ___
